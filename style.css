@@ -12,6 +12,10 @@ header,footer {
 div#content {
     margin: 10px;
 }
-section.row {
+section.row {section.col 
+    {
+    width: 33%;
+    float: left;
+    }
     background-color: yellow;
 }
